@@ -2,7 +2,7 @@
 
 A simple **Admin Notepad Plugin** for WordPress. It **auto-saves** notes while typing and provides a **dashboard widget**.
 
-![Admin Notepad Screenshot] (Screenshot 1.png) (Screenshot 2.png)
+![Admin Notepad Screenshot](Screenshot 1.png) (Screenshot 2.png)
 
 ## Features
 
