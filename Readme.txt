@@ -1,5 +1,5 @@
 === Admin Notepad ===
-Contributors: your-github-username
+Contributors: saurabhgupta99
 Tags: notes, admin, notepad, autosave
 Requires at least: 5.0
 Tested up to: 6.4
